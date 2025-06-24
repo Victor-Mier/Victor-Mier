@@ -23,14 +23,13 @@ I'm a technology enthusiast and a lifelong learner. I find this particular momen
     <img src="https://skillicons.dev/icons?i=py,sklearn,pytorch,tensorflow,mysql,git" 
     alt="My Skills" style="margin: 10px;"/>
 </a>
-  
 </div>
 
 ---
   
  ### :fire: My GitHub Stats:
 <div id="stats" align="center">
-  
+  <br>
   <img src="http://github-readme-streak-stats.herokuapp.com?user=Victor-Mier&theme=dark&background=000000" alt="GitHub Streak"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Victor-Mier&layout=compact&theme=vision-friendly-dark" alt="Top Langs"/>
