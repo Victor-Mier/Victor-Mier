@@ -3,6 +3,8 @@
 
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mier/)
 
+  ![](https://komarev.com/ghpvc/?username=Victor-Mier&color=blueviolet&style=flat-square)
+
 
 ### :raised_hands: Thanks for being here!! 
 </div>
