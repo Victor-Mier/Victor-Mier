@@ -2,7 +2,6 @@
   <img src="https://github.com/Victor-Mier/Victor-Mier/blob/main/github_header.png?raw=true" alt="Portada" style="width:100%; max-width:1200px; height:auto;">
 
   [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/victor-mier/)
-
   ![](https://komarev.com/ghpvc/?username=Victor-Mier&color=blueviolet&style=flat-square)
 
 
